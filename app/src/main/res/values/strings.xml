@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">room_sample</string>
+    <string name="id">id: -</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="add_to_database">Add to database</string>
+    <string name="read_by_name">Read by name</string>
+    <string name="delete_by_name">Delete by name</string>
+</resources>
